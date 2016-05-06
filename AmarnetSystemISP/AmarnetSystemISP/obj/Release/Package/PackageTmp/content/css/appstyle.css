@@ -1,0 +1,29 @@
+﻿.site-min-height {
+    min-height: 565px !important;
+}
+.userDetailsLabel {
+    min-width:200px !important;
+}
+#AppSidebar {
+    background: #2a3542 none repeat scroll 0 0;
+    height: 100%;
+    position: fixed;
+    width: 210px;
+}
+#SettingsSideBer {
+     background: #2a3542 none repeat scroll 0 0;
+    height: 100%;
+    position: fixed;
+    width: 210px;
+}
+ul.sidebar-menu li ul.sub li {
+    padding-left:14px;
+    padding-bottom:3px;
+}
+.panel-heading-edited {
+    padding: 25px 22px !important;
+}
+.form-control {
+    border-color: #969aa2 !important;
+   
+}

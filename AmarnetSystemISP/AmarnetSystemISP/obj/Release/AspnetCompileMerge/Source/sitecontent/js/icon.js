@@ -1,0 +1,1 @@
+jQuery(function(){var nth=0,mh=0,mrh=0,cnt=0;mh=mh<25?25:mh;});
